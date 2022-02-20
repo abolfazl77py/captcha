@@ -1,5 +1,9 @@
 # captcha
-generate captcha 
+python generate captcha 
+
+** requirements packeges :
+        run: pip install -r requirements.txt
+
 
 In this project, I tried to use the Pillow library to make captcha
 
